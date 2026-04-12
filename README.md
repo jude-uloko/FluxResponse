@@ -41,12 +41,3 @@ A Frank Note on the CDN Component
 Since this is the Open Source version, users have two options for the CDN link:
 
 Self-Hosted: Use the Python script to push to your own AWS/GitHub Pages/Netlify bucket.
-
-Community Hub: (Coming Soon) A shared community CDN for rapid prototyping.
-
-What's Next for You?
-To make this README a reality, your first "coding" steps should be:
-
-Define the "Responsive Engine": Write the Python function that takes a fixed value (like 500px) and converts it into a responsive one (like min(90%, 500px)).
-
-The JSON Parser: Write the script that reads those JSON settings and applies them to the CSS generation.
