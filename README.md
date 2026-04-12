@@ -1,4 +1,4 @@
-🚀 Project Name: FluxResponce
+Project Name: FluxResponce
 The JSON-Powered Engine for Automated Website Responsiveness.
 
 FluxResponse is an open-source Python tool that takes the "manual labor" out of web design. Stop writing hundreds of media queries. Feed your code into the system, and get a high-speed, responsive CDN link in seconds.
@@ -41,3 +41,5 @@ A Frank Note on the CDN Component
 Since this is the Open Source version, users have two options for the CDN link:
 
 Self-Hosted: Use the Python script to push to your own AWS/GitHub Pages/Netlify bucket.
+
+you are welcome....
