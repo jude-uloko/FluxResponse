@@ -19,23 +19,6 @@ Deploy: Run the update command. Python processes your layout, optimizes it for e
 
 Link: Paste the generated <link> into your HTML head. You're done.
 
-📄 The "Upgrade" JSON Script
-This is where the magic happens. Instead of 500 lines of CSS, you manage your site like this:
-
-JSON
-{
-  "project": "my-portfolio",
-  "version": "1.0.4",
-  "settings": {
-    "auto_stack_columns": true,
-    "fluid_typography": "enabled",
-    "mobile_first": true
-  },
-  "breakpoints": {
-    "tablet": "768px",
-    "mobile": "480px"
-  }
-}
 ⚙️ Technical Core
 Backend: Python 3.x
 
