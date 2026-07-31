@@ -37,9 +37,5 @@ Have a new logic idea? Submit a Pull Request.
 
 Want to help with the "Non-Coder" documentation? We’d love the help!
 
-A Frank Note on the CDN Component
-Since this is the Open Source version, users have two options for the CDN link:
-
 Self-Hosted: Use the Python script to push to your own AWS/GitHub Pages/Netlify bucket.
-
 you are welcome....
