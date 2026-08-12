@@ -13,7 +13,7 @@ Zero Bloat: Uses a Python-driven logic engine to generate only the CSS you actua
 🛠 How It Works
 Initialize: Run the CMD tool to scan your local HTML/CSS files.
 
-Configure: The system generates an upgrade.json. This is your site's "brain."
+Configure: The system generates an flux_r.json. This is your site's "brain."
 
 Deploy: Run the update command. Python processes your layout, optimizes it for every screen size, and pushes it to your CDN.
 
@@ -33,9 +33,7 @@ This is an Open Source project. We believe in democratizing the web by making hi
 
 Found a bug? Open an Issue.
 
-Have a new logic idea? Submit a Pull Request.
-
-Want to help with the "Non-Coder" documentation? We’d love the help!
+Have a new logic idea? Get Submit a Pull Request.
 
 Self-Hosted: Use the Python script to push to your own AWS/GitHub Pages/Netlify bucket.
 you are welcome....
